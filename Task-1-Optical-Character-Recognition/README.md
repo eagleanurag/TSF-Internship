@@ -4,7 +4,9 @@
 </a>
 
 </a>
-
+<a >
+  <img align="center" width="1000px" src="https://miro.medium.com/max/2560/1*hVxkXe35kRcAht3QpJylyg.gif" />
+</a>
 
 1. Install Tesseract to work with Python and Opencv
 
@@ -136,3 +138,5 @@ integrating
 <a >
   <img align="left" width="500px" src="https://github.com/eagleanurag/TSF-Internship/blob/main/Task-1-Optical-Character-Recognition/output.png" />
 </a>
+
+
