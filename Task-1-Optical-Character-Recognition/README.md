@@ -1,6 +1,6 @@
 </div><h1 align="center"><a href="https://colab.research.google.com/drive/1arM3QLymHxIyaDrPbskeWE-K_ivGlYtX?usp=sharing" target="_blank">Optical Character Recognition</a></h1></div>
 <a >
-  <img align="center" width="500px" src="https://user-images.githubusercontent.com/22770735/103998740-4484ef00-51c2-11eb-9a8a-efbc1d331cfd.jpg" />
+  <img align="center" width="1000px" src="https://user-images.githubusercontent.com/22770735/103998740-4484ef00-51c2-11eb-9a8a-efbc1d331cfd.jpg" />
 </a>
 
 </a>
