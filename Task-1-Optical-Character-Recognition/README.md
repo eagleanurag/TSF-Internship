@@ -46,7 +46,7 @@ pip3 install pytesseract
 ```
 After we’re done with the installation, it’s the time for us to try Tesseract to read the text from an image.
 
-## **Define all necessary Functions**
+**Define all necessary Functions**
 ```bib
 import cv2
 import numpy as np
@@ -105,7 +105,7 @@ def draw_contours(orig_image,image, target):
 
 ```
 
-*italicized text*# **Text Detection and Detect contours for paper boundary detection**
+**Text Detection and Detect contours for paper boundary detection**
 ```bib
 target = find_contours(edges)
 output = draw_contours(orig,image,target)
