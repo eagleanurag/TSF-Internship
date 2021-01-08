@@ -46,4 +46,4 @@ pip3 install pytesseract
 ```
 After we’re done with the installation, it’s the time for us to try Tesseract to read the text from an image.
 
-I have this digitalized page of a book (“The big sleep”).
+
