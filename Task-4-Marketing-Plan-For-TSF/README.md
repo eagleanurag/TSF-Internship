@@ -1,3 +1,6 @@
+<a >
+  <img align="center" width="1000px" src="https://miro.medium.com/max/4849/0*zEXQmORu8B9PsxmW" />
+</a>
 # What is Digital Marketing?
 
 At a high level, digital marketing refers to advertising delivered through digital channels such as search engines, websites, social media, email, and mobile apps. Using these online media channels, digital marketing is the method by which companies endorse goods, services, and brands. Consumers heavily rely on digital means to research products. For example, Think with Google marketing insights found that 48% of consumers start their inquiries on search engines, while 33% look to brand websites and 26% search within mobile applications.
