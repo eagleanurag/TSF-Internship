@@ -13,3 +13,10 @@ pip install opencv-python numpy pandas
 You can run the Python file from the command prompt. Make sure to give an image path using ‘-i’ argument. If the image is in another directory, then you need to give full path of the image:
 
   python code.py -i add_your_image_path_here
+
+
+# Output Image
+
+<a >
+  <img align="center" width="1000px" src="https://raw.githubusercontent.com/eagleanurag/TSF-Internship/main/Task-2-Color-Identification/test_pic.jpg" />
+</a>
