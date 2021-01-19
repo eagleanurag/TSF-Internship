@@ -18,5 +18,5 @@ You can run the Python file from the command prompt. Make sure to give an image 
 # Output Image
 
 <a >
-  <img align="center" width="1000px" src="https://raw.githubusercontent.com/eagleanurag/TSF-Internship/main/Task-2-Color-Identification/test_pic.jpg" />
+  <img align="center" width="1000px" src="https://github.com/eagleanurag/TSF-Internship/blob/main/Task-2-Color-Identification/Result.PNG" />
 </a>
