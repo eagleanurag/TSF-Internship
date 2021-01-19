@@ -4,7 +4,7 @@ In this color detection Python project, we are going to build an application thr
 Colors are made up of 3 primary colors; red, green, and blue. In computers, we define each color value within a range of 0 to 255.
 There are approximately 16.5 million different ways to represent a color. 
 We will be using a dataset that contains RGB values with their corresponding names. The CSV file for our dataset has been taken from this link: 
-https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+https://github.com/eagleanurag/TSF-Internship/blob/main/Task-2-Color-Identification/colors.csv
 
 OpenCV, Pandas, and numpy are the Python packages that are necessary for this project in Python. To install them, simply run this pip command in your terminal:
 
