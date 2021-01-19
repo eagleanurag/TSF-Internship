@@ -1,5 +1,5 @@
 <a >
-  <img align="center" width="1000px" src="https://miro.medium.com/max/4849/0*zEXQmORu8B9PsxmW" />
+  <img align="center" width="500px" src="https://miro.medium.com/max/4849/0*zEXQmORu8B9PsxmW" />
 </a>
 # What is Digital Marketing?
 
